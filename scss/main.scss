@@ -1,7 +1,8 @@
-$deep-grey: #282c34;
+$dark-blue: #0A7DFF;
 $white-text: rgba(255,255,255, .89);
 
 body {
-  background-color: $deep-grey;
+  background-color: $dark-blue;
   color: $white-text;
+  background-image: image();
 }
